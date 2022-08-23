@@ -13802,8 +13802,8 @@ const generateBuffTriggerIds = () => {
   buffs.sort((a, b) => a.id.localeCompare(b.id));
   return buffs.map(buff => `Buff ${buff.id}`);
 };
-// EXTERNAL MODULE: ./ui/oopsyraidsy/data/oopsy_manifest.txt + 170 modules
-var oopsy_manifest = __webpack_require__(171);
+// EXTERNAL MODULE: ./ui/oopsyraidsy/data/oopsy_manifest.txt + 182 modules
+var oopsy_manifest = __webpack_require__(455);
 ;// CONCATENATED MODULE: ./ui/oopsyraidsy/oopsyraidsy_config.ts
 
 
