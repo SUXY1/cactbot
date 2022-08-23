@@ -15044,8 +15044,8 @@ const translateRegex = (text, replaceLang, replacements) => {
 }; // Translates a timeline text for a given language.
 
 const translateText = (text, replaceLang, replacements) => translateWithReplacements(text, 'replaceText', replaceLang, replacements).text;
-// EXTERNAL MODULE: ./ui/raidboss/data/raidboss_manifest.txt + 438 modules
-var raidboss_manifest = __webpack_require__(976);
+// EXTERNAL MODULE: ./ui/raidboss/data/raidboss_manifest.txt + 462 modules
+var raidboss_manifest = __webpack_require__(304);
 ;// CONCATENATED MODULE: ./ui/raidboss/raidboss_options.ts
 
 // These options are ones that are not auto-defined by raidboss_config.js.
